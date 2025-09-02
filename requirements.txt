@@ -1,0 +1,4 @@
+pdfplumber
+pandas
+torch
+langchain

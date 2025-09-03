@@ -1,4 +1,8 @@
-pdfplumber
-pandas
-torch
-langchain
+torch==2.2.2
+langchain==0.3.27
+transformers==4.54.1
+auto-gptq==0.7.1
+langchain_community==0.3.27
+langchain-huggingface==0.3.1
+langchain-astradb==0.6.0
+python-dotenv==1.1.1
